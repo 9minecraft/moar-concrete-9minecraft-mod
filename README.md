@@ -8,6 +8,13 @@ An unofficial rebuild of **McJamweasel**'s original work, kept running on curren
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric |
+| 26.2 | Fabric, NeoForge |
+
 ## Source
 
 The original is not released under terms that let us republish its code, so there is none here and there will not be. This repository is notes and nothing more.
